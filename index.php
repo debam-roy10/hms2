@@ -75,7 +75,7 @@ include "includes/sidebar.php";
                                     <td>AP12345</td>
                                     <td>MR/2021/12345</td>
                                     <td>Rajarshi Saha</td>
-                                    <td>Debam Roy</td>
+                                    <td>Dr. Debam Roy</td>
                                     <td>2023/06/02</td>
                                     <td>12:00</td>
                                     <td>MOJO584356350</td>
@@ -91,13 +91,13 @@ include "includes/sidebar.php";
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td>AP12345</td>
-                                    <td>MR/2021/12345</td>
-                                    <td>Rajarshi Saha</td>
-                                    <td>Debam Roy</td>
-                                    <td>2023/06/02</td>
-                                    <td>12:00</td>
-                                    <td>MOJO584356350</td>
+                                    <td>AP64753</td>
+                                    <td>MR/2021/64573</td>
+                                    <td>Santanu Nag</td>
+                                    <td>Dr. Saumya Sarkar</td>
+                                    <td>2023/06/04</td>
+                                    <td>17:15</td>
+                                    <td>MOJO987636350</td>
                                     <td>
                                         <div class="d-flex justify-content-between">
                                             <form action="staffEdit.php" method="POST">
@@ -110,13 +110,13 @@ include "includes/sidebar.php";
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td>AP12345</td>
-                                    <td>MR/2021/12345</td>
-                                    <td>Rajarshi Saha</td>
-                                    <td>Debam Roy</td>
-                                    <td>2023/06/02</td>
-                                    <td>12:00</td>
-                                    <td>MOJO584356350</td>
+                                    <td>AP85546</td>
+                                    <td>MR/2021/43645</td>
+                                    <td>Subhadeep Bal</td>
+                                    <td>Dr. Rammohan Guha</td>
+                                    <td>2023/06/04</td>
+                                    <td>16:30</td>
+                                    <td>MOJO746539756</td>
                                     <td>
                                         <div class="d-flex justify-content-between">
                                             <form action="staffEdit.php" method="POST">
@@ -129,13 +129,13 @@ include "includes/sidebar.php";
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td>AP12345</td>
-                                    <td>MR/2021/12345</td>
-                                    <td>Rajarshi Saha</td>
-                                    <td>Debam Roy</td>
-                                    <td>2023/06/02</td>
-                                    <td>12:00</td>
-                                    <td>MOJO584356350</td>
+                                    <td>AP64583</td>
+                                    <td>MR/2021/38574</td>
+                                    <td>Arunabha Saha</td>
+                                    <td>Dr. Saumya Sarkar</td>
+                                    <td>2023/06/03</td>
+                                    <td>14:45</td>
+                                    <td>MOJO546375924</td>
                                     <td>
                                         <div class="d-flex justify-content-between">
                                             <form action="staffEdit.php" method="POST">
@@ -148,13 +148,13 @@ include "includes/sidebar.php";
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td>AP12345</td>
-                                    <td>MR/2021/12345</td>
-                                    <td>Rajarshi Saha</td>
-                                    <td>Debam Roy</td>
-                                    <td>2023/06/02</td>
-                                    <td>12:00</td>
-                                    <td>MOJO584356350</td>
+                                    <td>AP537456</td>
+                                    <td>MR/2021/87645</td>
+                                    <td>Souradip Dey</td>
+                                    <td>Dr. Debam Roy Roy</td>
+                                    <td>2023/06/05</td>
+                                    <td>12:15</td>
+                                    <td>MOJO746532875</td>
                                     <td>
                                         <div class="d-flex justify-content-between">
                                             <form action="staffEdit.php" method="POST">
@@ -210,7 +210,7 @@ include "includes/sidebar.php";
                                 <tr>
                                     <td>001</td>
                                     <td>Dr. Saumya Sarkar</td>
-                                    <td>Nuerology</td>
+                                    <td>Neurology</td>
                                     <td>9830110244</td>
                                     <td>Male</td>
                                     <td>10.03.2012</td>
@@ -226,12 +226,12 @@ include "includes/sidebar.php";
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td>001</td>
-                                    <td>Dr. Saumya Sarkar</td>
-                                    <td>Nuerology</td>
-                                    <td>9830110244</td>
+                                    <td>002</td>
+                                    <td>Dr. Debam Roy</td>
+                                    <td>Cardiology</td>
+                                    <td>9354673447</td>
                                     <td>Male</td>
-                                    <td>10.03.2012</td>
+                                    <td>20.11.2018</td>
                                     <td>
                                         <div class="d-flex justify-content-between">
                                             <form action="staffEdit.php" method="POST">
@@ -244,12 +244,12 @@ include "includes/sidebar.php";
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td>001</td>
-                                    <td>Dr. Saumya Sarkar</td>
-                                    <td>Nuerology</td>
-                                    <td>9830110244</td>
+                                    <td>003</td>
+                                    <td>Dr. Rammohan Guha</td>
+                                    <td>General Physician</td>
+                                    <td>8730583647</td>
                                     <td>Male</td>
-                                    <td>10.03.2012</td>
+                                    <td>06.09.2009</td>
                                     <td>
                                         <div class="d-flex justify-content-between">
                                             <form action="staffEdit.php" method="POST">
@@ -262,12 +262,12 @@ include "includes/sidebar.php";
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td>001</td>
-                                    <td>Dr. Saumya Sarkar</td>
-                                    <td>Nuerology</td>
-                                    <td>9830110244</td>
+                                    <td>004</td>
+                                    <td>Dr. Nantu Saha</td>
+                                    <td>Orthopaedics</td>
+                                    <td>7364598201</td>
                                     <td>Male</td>
-                                    <td>10.03.2012</td>
+                                    <td>14.10.2020</td>
                                     <td>
                                         <div class="d-flex justify-content-between">
                                             <form action="staffEdit.php" method="POST">
@@ -280,12 +280,12 @@ include "includes/sidebar.php";
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td>001</td>
-                                    <td>Dr. Saumya Sarkar</td>
-                                    <td>Nuerology</td>
-                                    <td>9830110244</td>
-                                    <td>Male</td>
-                                    <td>10.03.2012</td>
+                                    <td>005</td>
+                                    <td>Dr. Anindita Karmakar</td>
+                                    <td>Radiology</td>
+                                    <td>6384592057</td>
+                                    <td>Female</td>
+                                    <td>12.02.2019</td>
                                     <td>
                                         <div class="d-flex justify-content-between">
                                             <form action="staffEdit.php" method="POST">
