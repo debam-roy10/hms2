@@ -195,6 +195,10 @@ var myChart2 = new Chart(
       order: [[4, 'desc']],
     });
 
+    $('#dataTable1').DataTable({
+      order: [[0, 'asc']],
+    });
+
     //Delete Staff
     $('.deleteStaff').click(function () {
       const id = $(this).attr("data-id");

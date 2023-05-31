@@ -148,10 +148,10 @@ include "includes/sidebar.php";
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td>AP537456</td>
+                                    <td>AP53745</td>
                                     <td>MR/2021/87645</td>
                                     <td>Souradip Dey</td>
-                                    <td>Dr. Debam Roy Roy</td>
+                                    <td>Dr. Debam Roy</td>
                                     <td>2023/06/05</td>
                                     <td>12:15</td>
                                     <td>MOJO746532875</td>
@@ -176,12 +176,12 @@ include "includes/sidebar.php";
 
     <!-- ====================== charts ====================== -->
 
-    <div class="charts row">
-        <div class="col d-flex flex-column">
+    <div class="charts row mb-5" id="report">
+        <div class="col d-flex flex-column mt-5">
             <h4 class="text-center">Current Ratio</h4>
             <canvas class="chart mt-2" id="myChart" style="max-height:400px;"></canvas>
         </div>
-        <div class="col d-flex flex-column">
+        <div class="col d-flex flex-column mt-5">
             <h4 class="text-center">Patients Admission Curve</h4>
             <canvas class="mt-4" id="myChart2" style="max-height:400px;"></canvas>
         </div>
@@ -196,7 +196,7 @@ include "includes/sidebar.php";
                 </div>
                 <div class="card-body">
                     <div class="table-responsive">
-                    <table class="table display" id="dataTable">
+                    <table class="table display" id="dataTable1">
                             <thead>
                                 <th>#</th>
                                 <th>Doctor Name</th>

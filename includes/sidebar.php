@@ -14,9 +14,9 @@
             </a>
             </li>
             <li class="nav-item">
-            <a class="nav-link" href="patient.php">
+            <a class="nav-link" href="appointment.php">
                 <span data-feather="shopping-cart"></span>
-                Patients
+                Appointments
             </a>
             </li>
             <li class="nav-item">
@@ -26,7 +26,7 @@
             </a>
             </li>
             <li class="nav-item">
-            <a class="nav-link" href="#">
+            <a class="nav-link" href="#report">
                 <span data-feather="bar-chart-2"></span>
                 Reports
             </a>
